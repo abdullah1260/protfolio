@@ -141,27 +141,27 @@ img{
 }
 @media screen and (max-width: 730px){
     .home-blocks .blockA{
-        text-align: center;
-        margin-top: 50px;
-        margin-bottom: 50px;
+        text-align: center !important;
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
     }
     .home-blocks .home-title span:nth-child(1){
-        display: none;
+        display: none !important;
     }
     .home-blocks .home-title span:nth-child(2){
-        display: inline;
+        display: inline !important;
     }
     .home-blocks .blockB{
         display: none !important;
     }
     .dream-blocks .blockA{
-        width: 200%;
+        width: 200% !important;
     }
     .service-blocks{
         display: block !important;
     }
     .service-blocks .blockA{
         width: 100% !important ;
-        margin: 10px 0px ;
+        margin: 10px 0px !important;
     }
 }
