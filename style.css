@@ -87,7 +87,7 @@ img{
     justify-content: center;
 }
 .dream-blocks .blockA{
-    width: 70%;
+    width: 70% !important;
     padding-right:20px ;
 }
 .dream-blocks h4 span:nth-child(1) {
