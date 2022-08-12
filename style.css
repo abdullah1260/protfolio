@@ -141,15 +141,15 @@ img{
 }
 @media screen and (max-width: 730px){
     .home-blocks .blockA{
-        text-align: center !important;
-        margin-top: 50px !important;
-        margin-bottom: 50px !important;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
     }
     .home-blocks .home-title span:nth-child(1){
-        display: none !important;
+        display: none;
     }
     .home-blocks .home-title span:nth-child(2){
-        display: inline !important;
+        display: inline;
     }
     .home-blocks .blockB{
         display: none !important;
@@ -162,6 +162,6 @@ img{
     }
     .service-blocks .blockA{
         width: 100% !important ;
-        margin: 10px 0px !important;
+        margin: 10px 0px ;
     }
 }
